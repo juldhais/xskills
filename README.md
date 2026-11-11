@@ -12,6 +12,12 @@ Personal Claude Code skills. Each skill is a folder with a `SKILL.md`; run it wi
 | `xpush` | Commit with a one-sentence message and push |
 | `xskill` | Create a new skill |
 
+## Install
+```bash
+git clone https://github.com/juldhais/xskills.git ~/.claude/skills
+```
+Already have skills? Copy the folders you want into `~/.claude/skills/` instead.
+
 ## Typical flow
 1. `/xinit`: set up the project docs.
 2. `/xplan`: clarify and plan the work.
