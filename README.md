@@ -13,10 +13,16 @@ Personal Claude Code skills. Each skill is a folder with a `SKILL.md`; run it wi
 | `xskill` | Create a new skill |
 
 ## Install
+From the Claude Code plugin marketplace:
+```
+/plugin marketplace add juldhais/xskills
+/plugin install xskills@xskills
+```
+
+Or clone manually:
 ```bash
 git clone https://github.com/juldhais/xskills.git ~/.claude/skills
 ```
-Already have skills? Copy the folders you want into `~/.claude/skills/` instead.
 
 ## Typical flow
 1. `/xinit`: set up the project docs.

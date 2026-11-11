@@ -1,0 +1,8 @@
+{
+  "name": "xskills",
+  "description": "Skills for project docs, planning, implementing, testing and git: xinit, xplan, xstart, xtestweb, xpull, xpush, xskill",
+  "version": "1.0.0",
+  "author": { "name": "juldhais" },
+  "repository": "https://github.com/juldhais/xskills",
+  "skills": ["./xinit", "./xplan", "./xstart", "./xtestweb", "./xpull", "./xpush", "./xskill"]
+}

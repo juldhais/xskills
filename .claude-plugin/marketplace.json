@@ -1,0 +1,12 @@
+{
+  "name": "xskills",
+  "owner": { "name": "juldhais" },
+  "plugins": [
+    {
+      "name": "xskills",
+      "source": "./",
+      "description": "Skills for project docs, planning, implementing, testing and git",
+      "version": "1.0.0"
+    }
+  ]
+}
